@@ -31,6 +31,7 @@ import egypt from './countries/egypt.geojson';
 import estonia from './countries/estonia.geojson';
 import ethiopia from './countries/ethiopia.geojson';
 import france from './countries/france.geojson';
+import france_regions from './countries/france_regions.geojson';
 import finland from './countries/finland.geojson';
 import germany from './countries/germany.geojson';
 import iceland from './countries/iceland.geojson';
